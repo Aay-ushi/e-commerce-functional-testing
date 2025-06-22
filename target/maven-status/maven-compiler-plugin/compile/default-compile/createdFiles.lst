@@ -1,0 +1,4 @@
+com\example\seleniumtest\pages\HomePage.class
+com\example\seleniumtest\pages\LoginPage.class
+com\example\seleniumtest\App.class
+com\example\seleniumtest\BaseTest.class
